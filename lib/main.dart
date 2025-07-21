@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
   // Builds the MaterialApp widget with theme and home page
   @override
   Widget build(BuildContext context) {
+    // hello
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
